@@ -1,0 +1,12 @@
+{
+  "name": "commonplay-media-fragments-uri",
+  "version": "0.0.1",
+  "description": "CommonPlay Media-Fragments URI Proxy",
+  "dependencies": {
+    "express": "*",
+    "express-params": "*",
+    "jade": "*",
+    "mongoose": "*",
+    "frontoffice-schema": "git://github.com/commonplay/frontoffice-schema#master"
+  }
+}

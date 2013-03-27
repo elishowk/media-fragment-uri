@@ -1,0 +1,6 @@
+*.tpl.js
+*.css
+config/env.*.js
+components
+node_modules
+bowers
